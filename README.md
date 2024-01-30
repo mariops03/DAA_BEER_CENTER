@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este sistema es una aplicación que te permite gestionar una serie de fabricantes de cerveza y sus respectivas cervezas.
+Este sistema es una aplicación para IOS creada mediante Swift que te permite gestionar una serie de fabricantes de cerveza y sus respectivas cervezas.
 
 ## Documentación
 
