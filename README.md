@@ -8,5 +8,5 @@ Este sistema es una aplicación para IOS creada mediante Swift que te permite ge
 
 ## Documentación
 
-Toda la información detallada sobre cómo usar, configurar y entender nuestra aplicación se encuentra en el archivo `DOCUMENTATION.PDF`. Por favor, consulta este archivo para obtener instrucciones detalladas y guías de uso.
+Toda la información detallada sobre cómo usar, configurar y entender la aplicación se encuentra en el archivo `DOCUMENTATION.PDF`
 
